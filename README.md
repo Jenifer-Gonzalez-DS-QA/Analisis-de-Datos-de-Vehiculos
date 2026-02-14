@@ -1,5 +1,5 @@
-# Vehicles_SP7
-Proyecto SP7
+# Vehicles
+Proyecto
 
 # Análisis de Datos de Vehículos - Aplicación Web
 
