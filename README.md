@@ -26,3 +26,17 @@ Esta aplicación web interactiva permite explorar un conjunto de datos de anunci
 ├── notebooks/
 │   └── EDA.ipynb         # Análisis exploratorio de datos
 └── README.md             # Este archivo
+
+
+-----
+
+## 👩‍💻 Autora
+
+*Jenifer Gonzalez*
+
+Data Science | QA Engineer | Scrum Master 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jenifer-Gonzalez-DS-QA/jenifergon91))
+
+-----
