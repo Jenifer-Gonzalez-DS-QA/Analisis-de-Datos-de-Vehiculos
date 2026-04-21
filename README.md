@@ -26,7 +26,7 @@ Esta aplicación web interactiva permite explorar un conjunto de datos de anunci
 ├── notebooks/
 │   └── EDA.ipynb         # Análisis exploratorio de datos
 └── README.md             # Este archivo
-
+```
 
 -----
 
